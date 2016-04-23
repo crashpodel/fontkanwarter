@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="32px" viewBox="0 0 18 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>front-arrow-no-stem</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-56" transform="translate(-372.000000, -156.000000)" fill="#000000">
+            <g id="front-arrow-no-stem" transform="translate(372.000000, 156.000000)">
+                <path d="M2.37471569,0.312757289 L16.988375,15.3011258 C17.3630842,15.675835 17.3630842,16.3003503 16.988375,16.6750596 L2.37471569,31.6634281 C2.00000648,32.1010884 1.37549112,32.1010884 1.00078191,31.7263792 C0.626072697,31.35167 0.626072697,30.7271546 1.00078191,30.3524454 L14.9899258,15.9885923 L1.00078191,1.62473914 C0.626072697,1.25002993 0.626072697,0.625514578 1.00078191,0.250805366 C1.18863613,0.125902295 1.43844227,0.000999224566 1.68824841,0.000999224566 C1.93705533,0 2.18686147,0.124903071 2.37471569,0.312757289 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
