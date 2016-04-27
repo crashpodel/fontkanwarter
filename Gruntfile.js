@@ -19,8 +19,9 @@ module.exports = function(grunt) {
         options: {
           codepointsFile: 'o2-sdk/fontMapping.json',
           types: 'eot,woff,ttf,svg',
-          fontFilename: 'font',
+          fontFilename: 'zomatoO2',
           startCodepoint: 33,
+	  font: 'zomatoO2'
         }
       },
       zapps: {
