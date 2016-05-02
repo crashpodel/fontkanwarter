@@ -109,11 +109,27 @@ Icons that have already been prepped for SVG exporting will show a small knife o
 
 ##4. Installation (for generating the icon-font file)
 
-After pulling from the live repo run the following command
+After pulling from the live repo, open **Terminal.**
+
+Change your directory to wherever the downloaded github folder ("ZomatoFonts") is located. For example
+
+```
+cd /Users/<username>/<foldername>/ZomatoFonts
+```
+
+Then, run the following command
 
 ```
 npm install
 ```
+
+If that doesnt work, try
+
+```
+sudo npm install
+```
+
+And type in your password when prompted. 
 
 If you get the error "-bash: grunt: command not found" please run the commands below
 
