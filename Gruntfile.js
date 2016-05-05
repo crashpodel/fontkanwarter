@@ -30,8 +30,9 @@ module.exports = function(grunt) {
         options: {
           codepointsFile: 'z-apps/fontMapping.json',
           types: 'eot,woff,ttf,svg',
-          fontFilename: 'font',
+          fontFilename: 'zombatswapRegular',
           startCodepoint: 33,
+	  font: 'zombatswapRegular'
         }
       },
       zmerchant: {
