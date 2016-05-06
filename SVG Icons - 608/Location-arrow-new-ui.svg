@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="9px" viewBox="0 0 12 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Location-arrow-new-ui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="11.8027574 5.15624997e-05 11.8027574 8.08907344 0 8.08907344 0 5.15624997e-05 11.8027574 5.15624997e-05"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="577-585" transform="translate(-634.000000, -287.000000)">
+            <g id="Location-arrow-new-ui" transform="translate(634.000000, 287.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M11.4792199,5.15624997e-05 C11.7483963,5.15624997e-05 11.8998081,0.304270312 11.7336757,0.512582812 L6.1629631,7.95098901 C6.02837487,8.12011401 5.5684053,8.12836401 5.44433177,7.95098901 L0.0570948529,0.497114062 C-0.0901110294,0.286739062 0.0634036765,5.15624997e-05 0.324168382,5.15624997e-05 L11.4792199,5.15624997e-05 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
