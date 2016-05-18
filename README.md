@@ -138,7 +138,6 @@ Then, run the following commands
 
 brew install ttfautohint fontforge --with-python
 
-npm install grunt-webfont --save-dev
 ```
 
 
