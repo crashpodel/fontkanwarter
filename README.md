@@ -131,11 +131,15 @@ Then, run the following command
 sudo npm install grunt -g
 ```
 
-Then, run the following commands
+Now run the following command. This command below will take a while. Sit back and relax.
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+```
+At last, run the following command and you should be good to go.
+
+```
 brew install ttfautohint fontforge --with-python
 
 ```
