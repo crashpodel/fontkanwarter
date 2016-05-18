@@ -120,28 +120,24 @@ cd /Users/<username>/<foldername>/ZomatoFonts
 Then, run the following command
 
 ```
-npm install
-```
-
-If that doesnt work, try
-
-```
 sudo npm install
 ```
 
 And type in your password when prompted. 
 
-If you get the error "-bash: grunt: command not found" please run the commands below
+Then, run the following command
 
 ```
-npm install grunt --save-dev
+sudo npm install grunt -g
 ```
 
-
-If you still get the error "warning: fontforge not found" please run the following commands
+Then, run the following commands
 
 ```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 brew install ttfautohint fontforge --with-python
+
 npm install grunt-webfont --save-dev
 ```
 
