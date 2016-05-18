@@ -21,7 +21,7 @@ module.exports = function(grunt) {
           types: 'eot,woff,ttf,svg',
           fontFilename: 'zomatoO2',
           startCodepoint: 33,
-	  font: 'zomatoO2'
+	        font: 'zomatoO2'
         }
       },
       zapps: {
@@ -32,7 +32,17 @@ module.exports = function(grunt) {
           types: 'eot,woff,ttf,svg',
           fontFilename: 'zombatswapRegular',
           startCodepoint: 33,
-	  font: 'zombatswapRegular'
+	        font: 'zombatswapRegular'
+        }
+      },
+       zdroid: {
+        src: 'zdroid/exported/*.svg',
+        dest: 'zdroid/generated/' + date,
+        options: {
+          codepointsFile: 'zdroid/fontMapping.json',
+          types: 'eot,woff,ttf,svg',
+          fontFilename: 'zombatswapRegular',
+          startCodepoint: 33,
         }
       },
       zmerchant: {
