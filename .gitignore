@@ -1,2 +1,7 @@
 /node_modules
+/o2-sdk/generated/
+/z-apps/generated/
+/z-merchant/generated/
+/z-web/generated/
+/zdroid/generated/
 .DS_Store
