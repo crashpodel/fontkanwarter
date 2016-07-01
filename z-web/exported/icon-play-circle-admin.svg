@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-play-circle-admin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-play-circle-admin" fill="#000000">
+            <path d="M186,374 C184,374 181,373 178,372 C174,369 171,364 171,359 L171,153 C171,148 174,143 178,140 C183,137 188,137 193,139 L399,242 C404,245 407,250 407,256 C407,262 404,267 399,270 L193,373 C191,374 189,374 186,374 L186,374 Z M202,178 L202,334 L358,256 L202,178 Z M256,512 C115,512 0,397 0,256 C0,115 115,0 256,0 C397,0 512,115 512,256 C512,397 397,512 256,512 L256,512 Z M256,30 C132,30 31,132 31,256 C31,380 132,481 256,481 C380,481 481,380 481,256 C481,132 380,30 256,30 L256,30 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="508px" viewBox="0 0 512 508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-food-court-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-food-court-fill" fill="#000000">
+            <path d="M496,0 L15,0 C6,0 0,7 0,15 C0,24 6,30 15,30 L97,30 L97,443 C97,479 126,508 161,508 L447,508 C482,508 511,479 511,443 L511,16 C512,7 505,0 496,0 L496,0 Z M297,176 C297,204 279,228 251,236 L251,430 C251,439 244,446 235,446 C226,446 218,439 218,430 L218,236 C191,228 172,204 173,176 L173,95 C173,86 180,78 189,78 C198,78 205,86 205,95 L205,176 C205,185 210,195 219,200 L219,95 C219,86 226,78 235,78 C244,78 251,86 251,95 L251,200 C260,195 265,185 265,176 L265,95 C265,86 272,78 281,78 C290,78 297,86 297,95 L297,176 Z M436,176 C436,204 417,228 390,236 L390,430 C390,439 382,446 373,446 C364,446 357,439 357,430 L357,236 C330,228 311,204 311,176 L311,141 C311,106 339,78 373,78 C408,78 436,106 436,141 L436,176 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

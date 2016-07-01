@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="510px" height="438px" viewBox="0 0 510 438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-stats-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-stats-2" fill="#000000">
+            <path d="M495,438 L434,438 C427,438 422,434 419,427 L353,233 L293,427 C291,433 285,438 278,438 L246,438 C239,438 233,433 231,426 L159,87 L84,426 C82,433 76,438 69,438 L15,438 C6,438 0,431 0,423 C0,414 6,407 15,407 L57,407 L144,12 C146,5 152,0 159,0 C166,0 173,5 174,12 L258,407 L267,407 L338,179 C340,173 345,168 352,168 C358,168 365,172 367,179 L445,407 L495,407 C504,407 510,414 510,423 C510,431 504,438 495,438 L495,438 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

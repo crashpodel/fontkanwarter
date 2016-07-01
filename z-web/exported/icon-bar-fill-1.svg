@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="296px" height="512px" viewBox="0 0 296 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-bar-fill-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-bar-fill-1" fill="#000000">
+            <path d="M296,173 L296,171 L271,13 C270,5 264,0 256,0 L40,0 C32,0 26,5 25,13 L0,170 L0,173 C0,251 57,313 133,321 L133,481 L90,481 C82,481 75,488 75,497 C75,505 82,512 90,512 L206,512 C215,512 222,505 222,497 C222,488 215,481 206,481 L163,481 L163,320 C239,313 296,251 296,173 L296,173 Z M53,31 L243,31 L256,116 L40,117 L53,31 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

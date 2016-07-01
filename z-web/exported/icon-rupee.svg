@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="338px" height="512px" viewBox="0 0 338 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-rupee</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-rupee" fill="#000000">
+            <path d="M318,105 L240,105 C233,73 214,49 194,33 L322,33 C331,33 338,25 338,16 C338,8 331,0 322,0 L16,0 C7,0 0,8 0,16 C0,25 7,33 16,33 L130,33 C132,34 134,36 137,37 C139,37 192,55 207,105 L22,105 C13,105 6,113 6,122 C6,130 13,138 22,138 L210,138 C207,216 116,244 31,244 C25,244 19,247 16,253 C14,259 14,265 18,270 L219,506 C222,510 227,512 232,512 C235,512 239,510 242,508 C249,502 250,492 244,485 L64,274 C172,266 240,214 243,137 L318,137 C327,137 334,130 334,121 C334,112 327,105 318,105 L318,105 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

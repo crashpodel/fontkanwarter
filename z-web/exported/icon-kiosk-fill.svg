@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="504px" height="512px" viewBox="0 0 504 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-kiosk-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-kiosk-fill" fill="#000000">
+            <path d="M488,297 L463,297 L463,144 L488,144 L489,144 C497,144 504,137 504,129 C504,126 503,123 501,121 L453,9 C451,3 446,0 439,0 L352,0 L389,144 L433,144 L433,297 L71,297 L71,144 L109,144 L146,0 L64,0 C58,0 53,4 51,9 L2,123 C2.84217094e-14,128 2.84217094e-14,133 3,138 C5,142 10,144 15,144 L41,144 L41,297 L16,297 C8,297 1,304 1,312 L1,497 C1,505 8,512 16,512 L489,512 C497,512 504,505 504,497 L504,312 C503,304 497,297 488,297 L488,297 Z M434,432 C434,440 427,447 419,447 L81,447 C73,447 66,440 66,432 L66,375 C66,366 73,359 81,359 L419,359 C427,359 434,366 434,375 L434,432 Z M358,144 L321,0 L265,0 L265,144 L358,144 Z M235,144 L235,0 L178,0 L140,144 L235,144 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

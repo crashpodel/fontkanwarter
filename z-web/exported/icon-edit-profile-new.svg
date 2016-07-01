@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="513px" height="512px" viewBox="0 0 513 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-edit-profile-new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-edit-profile-new" fill="#000000">
+            <path d="M41,315 L44,317 L1,491 C-1,497 1,503 5,507 C9,511 15,512 21,511 L196,467 L197,467 L198,466 C199,466 201,465 202,463 L485,181 C498,168 507,151 511,134 C515,115 509,95 495,82 L430,16 C420,6 406,0 390,0 C369,0 347,10 330,27 L49,309 C47,311 46,312 45,314 C45,315 45,316 44,316 L41,315 Z M40,472 L69,353 L158,443 L40,472 Z M191,428 L84,321 L86,319 L299,106 L406,213 L191,428 Z M429,190 L322,83 L358,47 C375,32 396,29 407,40 L472,105 C474,107 481,114 478,128 C476,137 471,146 464,154 L429,190 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

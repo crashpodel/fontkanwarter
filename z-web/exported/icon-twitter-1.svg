@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="515px" height="512px" viewBox="0 0 515 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-twitter-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-twitter-1" fill="#000000">
+            <path d="M443,0 L69,0 C31,0 0,31 0,69 L0,445 C0,481 31,512 69,512 L445,512 C484,512 515,481 515,443 L515,69 C512,31 481,0 443,0 L443,0 Z M358,205 L358,212 C358,282 305,361 210,361 C179,361 154,353 128,338 L141,338 C166,338 187,330 207,315 C184,315 164,300 159,279 L169,279 C174,279 179,279 182,276 C159,271 141,251 141,225 C146,228 154,230 161,230 C146,220 138,205 138,187 C138,177 141,169 146,161 C172,192 210,215 253,215 C253,210 251,207 251,202 C251,174 274,148 305,148 C320,148 333,154 343,164 C356,161 366,156 376,151 C371,164 364,174 353,179 C364,179 374,174 384,172 C376,187 369,197 358,205 L358,205 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

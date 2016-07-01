@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="413px" height="510px" viewBox="0 0 413 510" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-been-there</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-been-there" fill="#000000">
+            <path d="M206,510 C202,510 198,509 194,505 L54,349 L54,349 C18,311 -1,260 1,204 C3,150 26,96 64,59 C102,21 153,0 206,0 C260,0 310,21 348,59 C354,64 354,74 348,80 C343,86 333,86 327,80 C295,48 252,30 206,30 C161,30 118,48 86,80 C53,113 34,158 32,205 C30,254 46,298 78,329 C78,330 79,331 79,332 L206,472 L334,328 L336,326 C373,287 388,231 377,174 C375,166 380,158 389,156 C397,154 405,159 407,168 C420,236 401,304 356,350 L355,350 L217,505 C215,509 211,510 206,510 L206,510 Z M205,290 C202,290 198,289 195,286 L120,213 C114,208 114,198 120,192 C126,186 135,186 142,191 L205,254 L387,73 C393,68 402,68 408,73 C414,79 414,89 408,95 L216,286 C213,289 209,290 205,290 L205,290 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

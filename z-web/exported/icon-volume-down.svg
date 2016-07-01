@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="470px" height="470px" viewBox="0 0 470 470" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-volume-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-volume-down" fill="#000000">
+            <path d="M230,0 L145,107 L59,107 C24,107 0,141 0,176 L0,299 C0,334 24,363 59,363 L145,363 L230,470 L278,470 L278,0 L230,0 L230,0 Z M128,320 L59,320 C48,320 43,311 43,299 L43,176 C43,165 48,150 59,150 L128,150 L128,320 Z M235,406 L150,320 L150,150 L235,64 L235,406 Z M342,214 L470,214 L470,256 L342,256 L342,214 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

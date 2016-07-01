@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="470px" viewBox="0 0 512 470" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-browser</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-browser" fill="#000000">
+            <path d="M0,0 L0,470 L512,470 L512,0 L0,0 Z M469,427 L43,427 L43,150 L469,150 L469,427 Z M469,128 L43,128 L43,43 L469,43 L469,128 Z M235,64 L192,64 L192,107 L235,107 L235,64 Z M171,64 L128,64 L128,107 L171,107 L171,64 Z M107,64 L64,64 L64,107 L107,107 L107,64 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

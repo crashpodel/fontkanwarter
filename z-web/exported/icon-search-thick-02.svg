@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="449px" height="445px" viewBox="0 0 449 445" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-search-thick-02</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-search-thick-02" transform="translate(-1.000000, -1.000000)" fill="#000000">
+            <path d="M180,360 C83,360 3,282 1,185 C9.99200722e-16,137 18,91 51,57 C84,22 129,2 177,1 C275,-1 358,78 360,177 C361,225 343,270 310,305 C277,339 232,359 184,360 L180,360 L180,360 Z M181,43 L178,43 C141,44 106,59 81,85 C55,112 42,147 43,184 C44,260 107,320 184,319 C220,318 255,303 280,276 C306,249 319,215 318,178 C317,103 255,43 181,43 L181,43 Z M422,446 C415,446 408,444 403,438 L284,322 C273,312 272,294 283,283 C294,272 311,272 322,283 L441,399 C452,409 453,427 442,438 C437,444 429,446 422,446 L422,446 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

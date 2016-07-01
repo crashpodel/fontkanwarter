@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-minus-in-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-minus-in-circle" fill="#000000">
+            <path d="M437,75 C337,-25 175,-25 75,75 C-25,175 -25,337 75,437 C175,537 337,537 437,437 C537,337 537,175 437,75 L437,75 Z M98,414 C10,327 10,185 98,97 C185,10 327,10 415,97 C502,185 502,327 415,414 C327,502 185,502 98,414 L98,414 Z M122,240 C114,240 106,247 106,256 C106,260 108,264 111,267 C114,270 118,272 122,272 L377,272 C386,272 393,265 393,256 C393,247 386,240 377,240 L122,240 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

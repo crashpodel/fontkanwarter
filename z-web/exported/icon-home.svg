@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-home" fill="#000000">
+            <path d="M256,0 C115,0 0,115 0,256 C0,397 115,512 256,512 C397,512 512,397 512,256 C512,115 397,0 256,0 L256,0 Z M379,270 L379,416 L298,416 L298,326 L228,326 L228,416 L147,416 L147,270 L85,270 L263,96 L441,270 L379,270 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

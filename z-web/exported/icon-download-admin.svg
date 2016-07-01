@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="504px" viewBox="0 0 512 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-download-admin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-download-admin" fill="#000000">
+            <path d="M497,473 L15,473 C7,473 0,480 0,488 C0,497 7,504 15,504 L497,504 C505,504 512,497 512,488 C512,480 505,473 497,473 L497,473 Z M253,396 L253,396 C255,397 257,398 258,399 L259,399 C260,400 262,401 265,401 C267,401 269,400 271,399 L271,399 C273,398 275,397 276,396 L276,396 L422,242 C428,235 428,226 422,220 C416,214 406,214 400,220 L281,347 L281,16 C281,7 274,0 265,0 C257,0 250,7 250,16 L250,347 L130,220 C124,214 114,214 108,219 C102,225 102,235 108,241 L253,396 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

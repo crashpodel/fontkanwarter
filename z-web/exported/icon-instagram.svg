@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-instagram" fill="#000000">
+            <path d="M66,0 L446,0 C482,0 512,30 512,66 L512,446 C512,482 482,512 446,512 L66,512 C30,512 0,482 0,446 L0,66 C0,30 30,0 66,0 L66,0 Z M373,57 C360,57 350,67 350,80 L350,135 C350,148 360,158 373,158 L431,158 C443,158 454,148 454,135 L454,80 C454,67 443,57 431,57 L373,57 Z M454,217 L409,217 C413,230 416,245 416,260 C416,346 344,415 256,415 C169,415 97,346 97,260 C97,245 100,230 104,217 L57,217 L57,433 C57,444 66,453 77,453 L434,453 C445,453 454,444 454,433 L454,217 L454,217 Z M256,155 C200,155 154,200 154,255 C154,310 200,355 256,355 C313,355 359,310 359,255 C359,200 313,155 256,155 L256,155 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

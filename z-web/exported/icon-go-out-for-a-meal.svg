@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="362px" height="512px" viewBox="0 0 362 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-go-out-for-a-meal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-go-out-for-a-meal" fill="#000000">
+            <path d="M148,0 C139,0 132,7 132,15 L132,132 C132,154 117,174 97,180 L97,15 C97,7 90,0 82,0 C73,0 66,7 66,15 L66,180 C45,173 30,154 30,132 L30,15 C30,7 23,0 15,0 C7,0 0,7 0,15 L0,132 C0,172 28,205 66,212 L66,497 C66,505 73,512 81,512 C90,512 97,505 97,497 L97,212 C134,205 163,171 163,132 L163,15 C163,7 156,0 148,0 L148,0 Z M280,0 C235,0 199,37 199,82 L199,131 C199,171 227,204 265,211 L265,497 C265,505 272,512 280,512 C289,512 296,505 296,497 L296,212 C333,205 362,171 362,132 L362,82 C362,37 326,0 280,0 L280,0 Z M332,132 C332,160 309,183 281,183 C253,183 230,160 230,132 L230,82 C230,54 253,31 281,31 C309,31 332,54 332,82 L332,132 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

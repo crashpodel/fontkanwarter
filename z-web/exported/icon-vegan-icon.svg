@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-vegan-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-vegan-icon" fill="#000000">
+            <path d="M448,0 L64,0 C29,0 0,29 0,64 L0,448 C0,483 29,512 64,512 L448,512 C483,512 512,483 512,448 L512,64 C512,29 483,0 448,0 L448,0 Z M480,448 C480,466 466,480 448,480 L64,480 C46,480 32,466 32,448 L32,64 C32,46 46,32 64,32 L448,32 C466,32 480,46 480,64 L480,448 Z M256,160 C203,160 160,203 160,256 C160,309 203,352 256,352 C309,352 352,309 352,256 C352,203 309,160 256,160 L256,160 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

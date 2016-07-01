@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-reviews-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-reviews-circle" fill="#000000">
+            <path d="M256,0 C115,0 0,115 0,256 C0,397 115,512 256,512 C397,512 512,397 512,256 C512,115 397,0 256,0 L256,0 Z M256,481 C132,481 31,380 31,256 C31,132 132,31 256,31 C380,31 481,132 481,256 C481,380 380,481 256,481 L256,481 Z M345,134 C331,120 304,123 287,140 L150,277 C149,279 148,280 147,282 C147,282 146,283 146,284 L125,369 C124,374 125,379 129,383 C132,386 135,387 140,387 L143,387 L229,365 C229,365 230,365 230,364 C232,364 233,362 234,361 L372,224 C379,216 385,207 386,198 C389,186 385,174 377,166 L345,134 Z M160,352 L169,317 L196,344 L160,352 Z M224,330 L182,288 L277,193 L319,235 L224,330 Z M353,202 L340,214 L298,172 L310,159 C315,155 322,153 325,155 L357,187 C357,188 358,189 358,192 C357,195 355,199 353,202 L353,202 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

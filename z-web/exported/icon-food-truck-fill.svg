@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="313px" viewBox="0 0 512 313" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-food-truck-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-food-truck-fill" fill="#000000">
+            <path d="M497,0 L115,0 C110,0 105,3 102,8 L54,88 L6,128 C2,131 0,135 0,140 L0,264 C0,273 7,280 16,280 L55,280 C64,299 84,313 107,313 C130,313 149,299 158,280 L354,280 C363,299 383,313 405,313 C428,313 448,299 457,280 L497,280 C506,280 512,273 512,264 L512,16 C512,7 506,0 497,0 L497,0 Z M107,282 C93,282 81,271 81,256 C81,242 93,230 107,230 C122,230 133,242 133,256 C133,271 122,282 107,282 L107,282 Z M150,103 L81,103 L124,31 L150,31 L150,103 Z M406,282 C391,282 380,271 380,256 C380,242 391,230 406,230 C420,230 432,242 432,256 C432,271 420,282 406,282 L406,282 Z M451,145 L215,145 L215,34 L451,34 L451,145 L451,145 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

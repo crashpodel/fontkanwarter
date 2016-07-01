@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-add-filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-add-filter" fill="#000000">
+            <path d="M497,0 L15,0 C7,0 0,7 0,15 L0,497 C0,505 7,512 15,512 L497,512 C505,512 512,505 512,497 L512,15 C512,7 505,0 497,0 L497,0 Z M481,481 L31,481 L31,31 L481,31 L481,481 Z M93,271 L241,271 L241,419 C241,428 248,435 256,435 C264,435 271,428 271,419 L271,271 L419,271 C428,271 435,264 435,256 C435,248 428,241 419,241 L271,241 L271,93 C271,84 264,78 256,78 C248,78 241,84 241,93 L241,241 L93,241 C84,241 78,248 78,256 C78,264 84,271 93,271 L93,271 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

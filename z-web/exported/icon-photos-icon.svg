@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="418px" viewBox="0 0 512 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-photos-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-photos-icon" fill="#000000">
+            <path d="M512,107 C512,88 496,72 476,72 L385,72 L338,6 C335,2 331,0 326,0 L184,0 C180,0 175,2 172,6 L125,72 L36,72 C16,72 0,88 0,107 L0,382 C0,402 16,418 36,418 L476,418 C496,418 512,402 512,382 L512,107 Z M476,389 L36,389 C32,389 29,386 29,382 L29,107 C29,104 32,101 36,101 L132,101 C137,101 141,98 144,95 L192,29 L318,29 L365,94 C368,98 372,101 377,101 L476,101 C480,101 483,103 483,107 L483,382 C483,386 480,389 476,389 L476,389 Z M256,358 C327,358 385,300 385,229 C385,158 327,100 256,100 C185,100 127,158 127,229 C127,300 185,358 256,358 L256,358 Z M256,128 C312,128 357,173 357,229 C357,285 312,330 256,330 C200,330 155,285 155,229 C155,173 200,128 256,128 L256,128 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

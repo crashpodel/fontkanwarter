@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="513px" viewBox="0 0 512 513" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-budicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-budicon" fill="#000000">
+            <path d="M342,193 L466,82 C473,77 473,67 467,60 C462,53 452,53 445,58 L294,193 L342,193 Z M382,25 C387,17 384,8 376,3 C369,-2 359,2 354,9 L246,193 L283,193 L382,25 Z M496,225 L0,225 C0,319 52,402 128,446 L128,449 L133,449 C142,454 152,459 162,463 C161,466 160,469 160,473 C160,495 178,513 200,513 L312,513 C334,513 352,495 352,473 C352,469 351,466 350,463 C360,459 370,454 379,449 L384,449 L384,446 C460,402 512,319 512,225 L496,225 Z M320,481 L192,481 L192,449 L320,449 L320,481 Z M369,417 L143,417 C86,383 45,326 35,257 L477,257 C467,326 426,383 369,417 L369,417 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

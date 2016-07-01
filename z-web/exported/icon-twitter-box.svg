@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-twitter-box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-twitter-box" transform="translate(-1.000000, 0.000000)" fill="#000000">
+            <path d="M417,0 L1,0 C0,0 1,0 1,0 L1,416 L1,512 L512,512 C512,512 513,469 513,416 L513,0 L417,0 L417,0 Z M390,195 C390,195 395,243 370,290 C346,337 316,368 260,384 C204,400 95,365 95,365 C95,365 137,367 158,358 C178,349 191,339 191,339 C191,339 167,334 151,322 C136,311 130,291 130,291 C130,291 150,293 156,290 C162,288 139,286 121,262 C103,237 109,221 109,221 C109,221 116,228 124,231 C132,234 138,234 138,234 C138,234 115,220 110,196 C104,173 117,139 117,139 C117,139 132,158 163,178 C195,197 189,194 212,204 C234,214 256,209 256,209 C256,209 251,169 267,149 C284,129 301,123 322,125 C359,127 377,151 377,151 L413,132 L397,166 L420,160 L390,195 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="512px" viewBox="0 0 500 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-summerlicious</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-summerlicious" fill="#000000">
+            <path d="M407,192 L464,192 L336,352 L336,464 L368,464 C381,464 384,467 384,480 L384,512 L256,512 L256,496 C256,483 259,464 272,464 L304,464 L304,352 L176,192 L384,192 L477,59 L500,59 L407,192 Z M240,224 L320,320 L401,224 L240,224 Z M285,84 L332,37 L355,60 L308,107 L285,84 Z M287,176 C279,131 240,96 192,96 C139,96 96,139 96,192 C96,245 139,288 192,288 C203,288 214,286 224,282 L247,308 C230,316 212,320 192,320 C121,320 64,263 64,192 C64,121 121,64 192,64 C257,64 311,113 319,176 L287,176 Z M176,0 L208,0 L208,48 L176,48 L176,0 Z M32,53 L53,32 L96,75 L76,96 L32,53 Z M48,208 L0,208 L0,176 L48,176 L48,208 Z M99,300 L52,347 L30,324 L77,277 L99,300 Z M208,400 L176,400 L176,336 L208,336 L208,400 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

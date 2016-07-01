@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="477px" height="510px" viewBox="0 0 477 510" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-phone-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-phone-fill" fill="#000000">
+            <path d="M476,401 C473,382 459,365 433,335 C407,305 386,281 361,281 C354,281 347,283 338,287 L338,288 C329,292 318,300 306,310 C290,324 279,339 275,354 C274,357 272,359 269,359 C266,361 264,361 262,359 C208,328 167,282 141,221 C140,218 140,216 141,213 C142,211 144,210 147,209 C154,207 174,202 195,183 C217,165 236,145 231,119 C228,101 214,84 189,55 L185,50 C159,22 139,0 116,0 C109,0 102,1 93,5 L92,6 C83,11 72,18 60,28 C23,60 -18,96 9,204 C25,268 53,319 102,375 C151,432 198,467 259,492 C290,504 316,510 340,510 C359,510 377,506 393,499 C410,491 423,479 435,469 L440,465 C461,447 480,427 476,401 L476,401 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

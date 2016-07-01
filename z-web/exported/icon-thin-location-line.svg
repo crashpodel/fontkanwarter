@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="422px" height="512px" viewBox="0 0 422 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-thin-location-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-thin-location-line" fill="#000000">
+            <path d="M211,0 C95,0 0,94 0,211 C0,257 16,302 44,339 C50,346 56,353 62,360 L186,501 C192,508 202,512 211,512 C220,512 230,508 236,501 L360,359 C366,354 396,311 398,308 C415,275 423,237 421,199 C416,93 332,7 226,0 L211,0 L211,0 Z M211,478 L86,336 C81,331 76,325 70,319 C46,287 34,250 34,211 C34,113 113,33 211,33 C215,33 219,33 224,34 C313,40 383,112 388,201 C390,243 377,284 352,318 L351,318 C346,325 341,330 336,336 L211,478 Z M211,114 C158,114 115,158 115,211 C115,264 158,307 211,307 C264,307 307,264 307,211 C307,158 264,114 211,114 L211,114 Z M211,274 C176,274 148,245 148,211 C148,176 176,148 211,148 C246,148 274,176 274,211 C274,245 246,274 211,274 L211,274 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

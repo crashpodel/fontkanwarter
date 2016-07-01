@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="412px" height="512px" viewBox="0 0 412 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-map-pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-map-pin" fill="#000000">
+            <path d="M206,512 C202,512 197,510 194,507 L54,350 L53,350 C17,312 -2,261 1,205 C3,150 26,97 64,59 C102,21 152,0 206,0 C260,0 311,21 349,59 C430,140 433,274 356,351 C356,352 356,352 355,352 L217,507 C215,510 211,512 206,512 L206,512 Z M79,333 L206,474 L334,329 C335,328 336,328 336,327 C398,262 394,148 327,80 C295,48 252,31 206,31 C161,31 118,48 85,81 C53,113 33,159 31,206 C29,255 45,299 77,330 C78,331 79,332 79,333 L79,333 Z M206,307 C152,307 107,263 107,208 C107,154 152,110 206,110 C260,110 304,154 304,209 C304,263 260,307 206,307 L206,307 Z M206,141 C168,141 138,171 138,209 C138,246 168,276 206,276 C243,276 274,246 274,209 C274,171 243,141 206,141 L206,141 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

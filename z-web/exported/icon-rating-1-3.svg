@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="511px" height="338px" viewBox="0 0 511 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-rating-1-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-rating-1-3" fill="#000000">
+            <path d="M397,0 L113,0 C50,0 0,51 0,113 L0,225 C0,287 50,338 113,338 L398,338 C460,338 511,288 511,225 L511,113 C510,51 460,0 397,0 L397,0 Z M188,251 L155,251 L155,139 L130,165 L111,145 L160,96 L189,96 L189,251 L188,251 Z M233,253 C223,253 215,245 215,235 C215,225 223,216 233,216 C244,216 252,225 252,235 C252,245 244,253 233,253 L233,253 Z M330,254 C286,254 266,214 266,174 C266,134 286,94 330,94 C374,94 394,134 394,174 C394,214 374,254 330,254 L330,254 Z M330,123 C308,123 299,145 299,174 C299,202 308,225 330,225 C352,225 360,202 360,174 C360,145 352,123 330,123 L330,123 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

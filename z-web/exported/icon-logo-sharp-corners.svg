@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-logo-sharp-corners</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-logo-sharp-corners" fill="#000000">
+            <path d="M255,181 C243,181 233,182 223,184 C214,187 206,190 199,194 C197,194 196,196 196,198 C196,201 198,203 201,203 L203,203 C204,203 204,202 204,202 C215,196 234,188 260,187 C291,185 323,191 323,191 C308,187 282,181 255,181 L255,181 Z M512,0 L0,0 L0,241 C61,244 75,243 94,240 C113,238 138,210 138,210 C138,210 161,174 217,159 C272,144 345,171 345,171 C432,202 434,254 434,254 L434,258 C434,258 432,310 345,341 C345,341 272,368 217,353 C161,338 138,302 138,302 C138,302 112,274 93,272 C75,269 61,268 0,271 L0,512 L512,512 L512,0 L512,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

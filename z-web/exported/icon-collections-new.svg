@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="481px" height="512px" viewBox="0 0 481 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-collections-new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-collections-new" fill="#000000">
+            <path d="M238,386 L182,412 C177,415 172,411 172,405 L180,344 C180,342 180,340 178,339 L136,294 C132,290 135,283 140,283 L200,271 C202,271 204,270 205,268 L235,214 C237,209 244,209 247,214 L276,268 C277,270 279,271 281,271 L342,283 C347,284 349,290 345,294 L303,339 C302,340 301,342 301,344 L309,405 C310,411 304,415 299,412 L244,386 C242,385 239,385 238,386 L238,386 Z M427,512 L54,512 C24,512 0,488 0,458 L0,165 C0,135 24,111 54,111 L427,111 C457,111 481,135 481,166 L481,458 C481,488 457,512 427,512 L427,512 Z M54,142 C41,142 31,152 31,165 L31,458 C31,471 41,482 54,482 L427,482 C440,482 450,471 450,458 L450,165 C450,152 440,142 427,142 L54,142 Z M421,86 L60,86 L60,71 C60,62 67,56 76,56 L406,56 C414,56 421,62 421,71 L421,86 L421,86 Z M373,31 L108,31 L108,16 C108,7 115,0 124,0 L357,0 C366,0 373,7 373,16 L373,31 L373,31 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
