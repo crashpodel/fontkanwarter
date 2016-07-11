@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="408px" viewBox="0 0 512 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-eye-views</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-eye-views" fill="#000000">
+            <path d="M256,408 C135,408 30,326 1,208 L0,204 L1,201 C30,82 135,0 256,0 C377,0 482,82 511,200 L512,204 L511,207 C482,326 377,408 256,408 L256,408 Z M31,204 C58,307 150,378 256,378 C362,378 454,307 481,204 C454,102 362,31 256,31 C150,31 58,102 31,204 L31,204 Z M256,319 C192,319 141,268 141,204 C141,140 192,88 256,88 C320,88 371,140 371,204 C371,268 319,319 256,319 L256,319 Z M256,119 C209,119 171,158 171,204 C171,251 209,289 256,289 C303,289 341,251 341,204 C341,158 303,119 256,119 L256,119 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
